@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **siebenlist.sr@gmail.com**
 
-- ⚡ Fun fact **I beat dark souls with only 10 deaths**
+- ⚡ Fun fact **I love Coffee☕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
