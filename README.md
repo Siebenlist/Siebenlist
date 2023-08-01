@@ -5,9 +5,9 @@
 
 <p align="center">- 👨‍💻 All of my projects are available at [https://github.com/Siebenlist](https://github.com/Siebenlist)</p>
 
-<p align="center">- 📫 How to reach me **siebenlist.sr@gmail.com**</p>
+<p align="center">- 📫 How to reach me <b>siebenlist.sr@gmail.com</b></p>
 
-<p align="center">- ⚡ Fun fact **I love Coffee☕**</p>
+<p align="center">- ⚡ Fun fact <b>I love Coffee☕</b></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
