@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santiago Rodriguez</h1>
 <h3 align="center">A Full-Stack Java Developer</h3>
 
-<p align="center">- 🌱 I’m currently learning **Spring Framework in Coding Dojo**</p>
+<p align="center">- 🌱 I’m currently learning <b>Typescript</b></p>
 
 <p align="center">- 👨‍💻 All of my projects are available at https://github.com/Siebenlist</p>
 
