@@ -7,7 +7,7 @@
 
 <p align="center">- 📫 How to reach me <b>siebenlist.sr@gmail.com</b></p>
 
-<p align="center">- ⚡ Fun fact <b>I love Coffee☕</b></p>
+<p align="center">- ⚡ Fun fact <b>I started making websites when i was in elementary school</b></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
